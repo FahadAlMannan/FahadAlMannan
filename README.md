@@ -24,7 +24,7 @@ I am currently open to graduate and early-career opportunities across AI/ML engi
 | Project | What I worked on | Outcome |
 |---|---|---|
 | [3D Brain Image Segmentation](https://doi.org/10.1117/12.3016558) | Helped adapt and evaluate a tiled 3D convolutional neural network for memory-efficient medical-image segmentation. | Co-authored a peer-reviewed SPIE publication. |
-| Crop and Weed Semantic Segmentation | Built and tuned a compact MATLAB encoder-decoder CNN using only 50 labelled image-mask pairs. | Increased weed boundary F-score from **0.661 to 0.768** and crop accuracy from **0.798 to 0.893**. |
+| [Crop and Weed Semantic Segmentation](https://github.com/FahadAlMannan/crop-weed-semantic-segmentation) | Built and tuned a compact MATLAB encoder-decoder CNN using only 50 labelled image-mask pairs. | Increased weed boundary F-score from **0.661 to 0.768** and crop accuracy from **0.798 to 0.893**. |
 | Breast Cancer Outcome Prediction | Compared classical ML, neural networks, feature selection, and regression approaches for pCR classification and recurrence-free-survival prediction. | Best pCR ROC-AUC: **0.766**; random-forest regression test MAE: **21.84**. |
 | NHS Admissions Visual Analytics | Prepared multi-year NHS admissions data with Excel and Power Query and designed an interactive hierarchical Tableau treemap. | Exposed patterns across ICD categories, emergency admissions, age bands, and time. |
 
