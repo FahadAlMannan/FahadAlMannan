@@ -28,6 +28,7 @@ I am currently open to graduate and early-career opportunities across AI/ML engi
 | [Breast Cancer Outcome Prediction](https://github.com/FahadAlMannan/breast-cancer-outcome-prediction) | Reconstructed and audited classical ML, TensorFlow, and PyTorch workflows for pCR classification and relapse-free-survival prediction. | SVM holdout ROC-AUC: **0.658**; random-forest CV MAE: **20.60 months**. |
 | [Distributed Fraud Detection](https://github.com/FahadAlMannan/distributed-fraud-detection-pyspark) | Implemented class-weighted Global AdaBoost around Spark ML weak learners, with distributed row-weight updates and validation-only threshold tuning. | Test fraud F1: **0.9788**; PR-AUC: **0.9877** across 6.36M synthetic transactions. |
 | [NHS Admissions Visual Analytics](https://github.com/FahadAlMannan/nhs-admissions-visual-analytics) | Prepared multi-year NHS admissions data with Excel and Power Query and designed an interactive hierarchical Tableau treemap. | Exposed patterns across ICD categories, emergency admissions, age bands, and time. |
+| [Milepost Courier](https://github.com/FahadAlMannan/milepost-courier) | Developed a courier demo with React, Express, GraphQL and MongoDB for itemised quotations, bookings, delivery milestones and proof-of-delivery uploads. | Containerised with Docker Compose, with client and operations dashboards and automated API and desktop/mobile browser tests. |
 
 ## Areas of focus
 
@@ -35,14 +36,17 @@ I am currently open to graduate and early-career opportunities across AI/ML engi
 - **Machine learning:** classification, regression, imbalanced learning, model evaluation
 - **Scalable AI:** PySpark, distributed model training, runtime and partition analysis
 - **Applied data science:** exploratory analysis, visual analytics, reproducible experimentation
+- **Full-stack development:** React interfaces, GraphQL APIs, database-backed workflows and containerised development
 
 ## Technical toolkit
 
 | Area | Technologies |
 |---|---|
-| Languages | Python, SQL, C, C++, MATLAB |
+| Languages | Python, JavaScript, SQL, C, C++, MATLAB |
 | ML and AI | PyTorch, TensorFlow, scikit-learn |
 | Data and distributed systems | PySpark, pandas, NumPy, Tableau, Power Query |
+| Web applications | React, Node.js, Express, GraphQL, MongoDB |
+| Containers | Docker, Docker Compose |
 | Research and collaboration | Git, Jupyter, LaTeX, experiment design, technical writing |
 
 ## Current direction
