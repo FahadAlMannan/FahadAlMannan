@@ -51,6 +51,10 @@ I am currently open to graduate and early-career opportunities across AI/ML engi
 
 ## Current direction
 
-I am developing my MSc work into clear, reproducible case studies that explain not only the final results, but also the design decisions, experiments, limitations, and lessons behind them.
+I am developing my MSc research into a series of clear and reproducible case studies that go beyond presenting final results. My aim is to document the complete research process, including the rationale behind key design decisions, experimental methodology, alternative approaches explored, observed limitations, and the lessons learned throughout the investigation.
+
+A central focus of this work is the analytical evaluation of privacy, security, and information disclosure risks in federated learning for medical imaging. In particular, I am interested in understanding the extent to which federated learning protects sensitive medical data in practice, the circumstances under which information may still be exposed, and the trade-offs between privacy, security, model performance, and practical usability.
+
+By presenting the work in this way, I aim to produce case studies that are technically rigorous, transparent, and reproducible, while also providing insight into the reasoning, experimentation, and challenges that shaped the final outcomes.
 
 If you are working on thoughtful applications of AI or hiring for graduate AI/ML roles, feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/fahad-al-mannan/).
